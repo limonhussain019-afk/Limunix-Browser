@@ -1,0 +1,18 @@
+<resources>
+    <string name="app_name">Limunix Browser</string>
+    <string name="search_or_enter_url">Search or enter URL</string>
+    <string name="new_tab">New Tab</string>
+    <string name="close_tab">Close Tab</string>
+    <string name="restore_session">Restore previous session</string>
+    <string name="private_mode_notice">Private Browsing keeps your history, cache, and search terms private to this session. It does not provide total internet anonymity from your ISP or network administrator.</string>
+    <string name="offline_title">You\'re Offline</string>
+    <string name="offline_subtitle">Check your internet connection and tap retry.</string>
+    <string name="retry">Retry</string>
+    <string name="open_in_limunix_player">Open in Limunix Player</string>
+    <string name="ad_blocker">Ad Blocker</string>
+    <string name="boost_mode">Boost Mode</string>
+    <string name="downloads">Downloads</string>
+    <string name="bookmarks">Bookmarks</string>
+    <string name="history">History</string>
+    <string name="settings">Settings</string>
+</resources>
